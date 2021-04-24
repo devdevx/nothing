@@ -1,3 +1,3 @@
 # Nothing
 
-Demo project to learn how to publish to maven central.
+A demo for deployment to the Central Repository via OSSRH.
